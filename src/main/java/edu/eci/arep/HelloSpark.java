@@ -12,6 +12,7 @@ public class HelloSpark {
         secure("keys/ecikeystore.p12", "eci123", null, null);
         port(getPort());
         get("/hello", (req, res) -> "Hello Heroku");
+        get("/anotherhello",(req,res) -> URLReader.readUrlSecure("https://localhost:5001/anotherhello", "keys\\ecikeystore2.p12","clave1234"));
     }
 
     static int getPort() {
