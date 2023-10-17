@@ -1,7 +1,9 @@
 # Laboratorio 7 AREP - David E. Valencia.
 
 ## Como funciona:
-En la carpeta de [keys](keys)
+En la carpeta de [keys](keys), se encuentran los certificados para poder hacer un acceso seguro con uso del protocolo https, con la caracteristican de que fueron autofirmados por lo que los navegadores dejan claro que son peligrosos y poco fiable.
+
+A travez de spark uso los lambdas para que con la clase url reader hace la conexion a un localhost 5001 con el url requerido y con eso deberia de funcionar el psoible fallo que se encuentre es que el navegador pide que uno confirme que va a permitir la conexion sin certificados seguros, y dos que no encuentra el otro servidor eso se debe mucahs veces con que el segundo servidor no este ejecutado.
 
 ## Instalación
 
