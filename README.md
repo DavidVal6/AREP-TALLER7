@@ -1,7 +1,7 @@
 # Laboratorio 7 AREP - David E. Valencia.
 
 ## Como funciona:
-En la carpeta de 
+En la carpeta de [keys](keys)
 
 ## Instalación
 
@@ -25,5 +25,10 @@ Con esto debera de aparecer las siguientes pantallas:
 
 ![image](https://github.com/DavidVal6/AREP-TALLER7/assets/98176834/9b356f08-e3d1-4f39-a45e-452365be3cad)
 ![image](https://github.com/DavidVal6/AREP-TALLER7/assets/98176834/015b588d-9c8c-41b4-8bdf-30fee860b9a7)
+
+
+## Colaboradores
+
+- Santiago Rocha
 
 
